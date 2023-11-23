@@ -1,0 +1,7 @@
+#ignore object files 
+obj/
+
+
+
+#ignore imgui.ini
+imgui.ini
